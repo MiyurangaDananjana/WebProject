@@ -1,0 +1,57 @@
+.Hbody{
+    background-image: url("wp6938249-health-care-wallpapers.jpg");
+    background-color: rgb(32, 26, 44);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.Hh1{
+    text-align: center;
+    margin-bottom: 40px;
+    color: rgb(19, 14, 31);
+     
+}
+
+.Hform{
+    width: 910px;
+    height: 150px;
+    border: 2px solid rgba(158, 163, 240, 0.767);
+    padding: 30px;
+    background: rgba(187, 204, 252, 0.644);
+    border-radius: 15px;
+    
+    
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: rgb(170, 103, 247);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    border-radius: 12px;
+    height: 70px;
+  }
+  
+  .button1 {
+    background-color: rgb(162, 193, 250); 
+    color: black; 
+    border: 2px solid #7578aa;
+    border-radius: 12px;
+    
+  }
+  
+  .button1:hover {
+    background-color: #816df1;
+    color: white;
+  }

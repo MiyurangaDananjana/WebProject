@@ -1,0 +1,36 @@
+body{
+  
+  background-color: rgb(255, 255, 255);
+  background-image: url("backgroun/wp6938553-health-care-wallpapers.jpg");
+  background-size: cover;
+  
+}
+h2{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(166, 166, 235), 0 0 5px rgb(50, 50, 255);
+
+}
+.form2{
+    width: 1050px;
+    height: auto;
+    border: 2px solid rgb(228, 228, 228);
+    padding: 30px;
+    background: rgba(244, 246, 255, 0.863);
+    border-radius: 10px;
+}
+
+.inputaddress{
+  width: 335px;
+  height: 50px;
+
+}
+.input{
+  width: 335px;
+}
+.tabel{
+  width: 400px;
+  height: 400px;
+}
